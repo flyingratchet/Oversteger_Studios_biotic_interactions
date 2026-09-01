@@ -1,5 +1,5 @@
-{ 
-  "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature.",
+{
+  "citation": "Rick Overson. 2026. Species interactions observed at Tempe House, Fish Creek, and Redfield Canyon, Arizona, as part of the Critter Observation Database project.",
+  "license": "CC-BY-4.0",
   "deprecated": false
 }
