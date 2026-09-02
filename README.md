@@ -1,34 +1,53 @@
-[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:flyingratchet/Oversteger_Studios_biotic_interactions)](https://globalbioticinteractions.org/?accordingTo=globi:flyingratchet/Oversteger_Studios_biotic_interactions)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi\:flyingratchet/Oversteger_Studios_biotic_interactions)](https://globalbioticinteractions.org/?accordingTo=globi:flyingratchet/Oversteger_Studios_biotic_interactions)
 
 # Oversteger Studios — Biotic Interactions
 
 Part of [**Oversteger Studios**](https://overstegerstudios.com).
 
-Species interactions — predation, pollination, herbivory, parasitism, and the
-like — observed at a residential yard in Tempe, Arizona; Fish Creek Canyon, a
-drainage in the Superstition Wilderness Area; and Redfield Canyon, a
-wilderness area in southeastern Arizona — shared here through
-[Global Biotic Interactions (GloBI)](http://globalbioticinteractions.org).
+Natural history is about more than knowing which species live in a place. It
+is also about understanding the relationships among them: who eats whom,
+which insects visit which flowers, where parasites find their hosts, and the
+many other interactions that knit an ecological community together.
 
-This dataset draws from two ongoing projects: [Rewilding Our Yard](https://overstegerstudios.com/work/rewilding),
-an effort to turn a suburban yard into a refuge for the native plants and
-wildlife of our home county, and the [Sonoran Species Compendium](https://overstegerstudios.com/work/compendium),
-a broader natural history record of field sites including Fish Creek Canyon
-and Redfield Canyon. Both involve carefully documenting what's found at each
-place, year after year. This repository is the part of that record that's
-specifically about *relationships*: not just what showed up, but who it ate,
-who it pollinated, who preyed on it.
+This repository is our growing record of those relationships, documented
+through direct observations at several places in Arizona that we return to
+again and again. They currently include our residential yard in Tempe; Fish
+Creek Canyon, a drainage in the Superstition Wilderness Area; and Redfield
+Canyon, a wilderness area in southeastern Arizona.
+
+The observations come from two ongoing Oversteger Studios projects.
+[**Rewilding Our Yard**](https://overstegerstudios.com/work/rewilding) follows
+the plants and animals of a suburban yard as we work to make it a richer
+refuge for native biodiversity. The
+[**Sonoran Species Compendium**](https://overstegerstudios.com/work/compendium)
+documents the natural history of field sites across Arizona, including Fish
+Creek Canyon and Redfield Canyon.
+
+Both projects grow from the same basic practice: paying close attention to
+particular places over long periods of time. As those observations accumulate,
+we want to record not only *what lives there*, but *what those organisms are
+doing together*.
+
+This repository makes that part of the record openly available through
+[**Global Biotic Interactions (GloBI)**](http://globalbioticinteractions.org),
+where individual observations can become part of a larger, searchable body of
+ecological interaction data.
 
 ## About this data
 
-Records here are kept simple and direct — what interacted with what, and
-when — and periodically brought up to date. If you notice an error or want to
-suggest a correction, please [open an issue](../../issues/new); we welcome
-that kind of conversation.
+Records are intentionally kept simple and direct: what interacted with what,
+where, and when. The dataset is periodically regenerated as new observations
+are added and existing records are refined.
 
-`interactions.tsv` is a compiled output rather than a working file — edits
-made directly to it will be overwritten the next time it's refreshed, so
-corrections are best raised as an issue rather than a direct edit.
+We care about making these records useful beyond our own projects, so
+corrections and questions are very welcome. If you notice an identification
+error, a problem with an interaction record, or something else that could be
+improved, please [open an issue](../../issues/new).
+
+`interactions.tsv` is a compiled output rather than a working file. Direct
+edits to it will be overwritten the next time the dataset is refreshed, so
+corrections are best raised through an issue.
+
 
 ## Data Format and Dictionary
 
