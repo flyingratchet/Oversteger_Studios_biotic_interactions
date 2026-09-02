@@ -2,30 +2,33 @@
 
 # Oversteger Studios — Biotic Interactions
 
-Species interactions (predation, pollination, parasitism, and similar) observed
-at Tempe House, Fish Creek, and Redfield Canyon, Arizona, made available through
+Part of [**Oversteger Studios**](https://overstegerstudios.com).
+
+Species interactions — predation, pollination, herbivory, parasitism, and the
+like — observed at a residential yard in Tempe, Arizona; Fish Creek Canyon, a
+drainage in the Superstition Wilderness Area; and Redfield Canyon, a
+wilderness area in southeastern Arizona — shared here through
 [Global Biotic Interactions (GloBI)](http://globalbioticinteractions.org).
 
-This dataset is part of the [Critter Observation Database](https://github.com/flyingratchet/critter_observation_database)
-project — a personal, decade-plus wildlife and plant observation pipeline. Most of
-that project's records are single-species observations; this repository is
-specifically for records that describe a relationship *between* two organisms,
-rather than a sighting of just one.
+This dataset draws from two ongoing projects: [Rewilding Our Yard](https://overstegerstudios.com/work/rewilding),
+an effort to turn a suburban yard into a refuge for the native plants and
+wildlife of our home county, and the [Sonoran Species Compendium](https://overstegerstudios.com/work/compendium),
+a broader natural history record of field sites including Fish Creek Canyon
+and Redfield Canyon. Both involve carefully documenting what's found at each
+place, year after year. This repository is the part of that record that's
+specifically about *relationships*: not just what showed up, but who it ate,
+who it pollinated, who preyed on it.
 
-## How this data is generated
+## About this data
 
-Records are curated by hand in an Airtable table (`GLOBI observations`), then
-formatted into `interactions.tsv` by the Critter Observation Database pipeline
-(`09_publish_globi_interactions.R`). That script also backfills `sourceTaxonId`/
-`targetTaxonId` from a local GBIF-resolved taxonomic dictionary, falling back to
-a live [ITIS](https://www.itis.gov) lookup for taxa the dictionary doesn't have.
-Higher taxonomy (kingdom/phylum/class/order/family) is deliberately left blank —
-GloBI resolves that itself from the taxon name/id via its own name-matching
-service, so filling it in here would just be redundant.
+Records here are kept simple and direct — what interacted with what, and
+when — and periodically brought up to date. If you notice an error or want to
+suggest a correction, please [open an issue](../../issues/new); we welcome
+that kind of conversation.
 
-**`interactions.tsv` is generated, not hand-edited** — changes should go into the
-source Airtable table, then get re-exported by the pipeline. Editing the TSV
-directly will get overwritten on the next export.
+`interactions.tsv` is a compiled output rather than a working file — edits
+made directly to it will be overwritten the next time it's refreshed, so
+corrections are best raised as an issue rather than a direct edit.
 
 ## Data Format and Dictionary
 
@@ -74,13 +77,16 @@ interactionTypeId | interactionTypeName
 ## Citation & License
 
 > Rick Overson. 2026. Species interactions observed at Tempe House, Fish Creek,
-> and Redfield Canyon, Arizona, as part of the Critter Observation Database
-> project.
+> and Redfield Canyon, Arizona, as part of the Rewilding Our Yard and Sonoran
+> Species Compendium projects.
 
 Licensed [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) — reuse is
 welcome with attribution.
 
-## Questions
+## More from this project
 
-Comments or questions about GloBI itself: [open an issue](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/new).
-Questions about this specific dataset: open an issue on this repository.
+- [overstegerstudios.com](https://overstegerstudios.com) — the broader studio
+- [Rewilding Our Yard](https://overstegerstudios.com/work/rewilding) — the yard observations come from
+- [Sonoran Species Compendium](https://overstegerstudios.com/work/compendium) — the field-site observations come from, and a fuller reference for the species involved
+
+Comments or questions about GloBI itself: [open an issue on the GloBI project](https://github.com/globalbioticinteractions/globalbioticinteractions/issues/new).
