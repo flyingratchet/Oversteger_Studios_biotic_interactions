@@ -1,4 +1,4 @@
-[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi\:flyingratchet/Oversteger_Studios_biotic_interactions)](https://globalbioticinteractions.org/?accordingTo=globi:flyingratchet/Oversteger_Studios_biotic_interactions)
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:flyingratchet/Oversteger_Studios_biotic_interactions)](https://globalbioticinteractions.org/?accordingTo=globi:flyingratchet/Oversteger_Studios_biotic_interactions)
 
 # Oversteger Studios — Biotic Interactions
 
