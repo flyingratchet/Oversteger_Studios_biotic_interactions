@@ -325,8 +325,104 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceTaxonKingdomName	sourceTa
 	GBIF:9448761	Digrammia colorata						Digrammia	colorata								RO:0002454	hasHost		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9138	-113.5522			2025-04-28			
 	GBIF:9448761	Digrammia colorata						Digrammia	colorata								RO:0002622	visitsFlowersOf		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9131	-113.5545			2025-04-28			
 	ITIS:706171	Hyporhagus															RO:0002470	eats		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9136	-113.5518			2025-04-28			
-	ITIS:699638	Anthidiellum notatum						Anthidiellum	notatum								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
-	ITIS:808885	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
-	ITIS:808885	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
+	ITIS:699638	Anthidiellum notatum						Anthidiellum	notatum								RO:0002622	visitsFlowersOf			Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
+	ITIS:808885	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf			Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
+	ITIS:808885	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf			Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
 	ITIS:706171	Hyporhagus															RO:0002470	eats		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9143	-113.555			2025-04-29			
 	ITIS:706171	Hyporhagus															RO:0002470	eats		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9141	-113.5546			2025-04-29			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-24			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-24			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-24			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-24			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-25			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-25			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-25			
+		Aphidae															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27			
+	ITIS:104419	Miridae															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27			
+	ITIS:104419	Miridae															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27T17:26:21			
+	ITIS:103348	Thysanoptera															RO:0002470	eats		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27			
+	ITIS:103348	Thysanoptera															RO:0002470	eats		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27			
+	ITIS:103348	Thysanoptera															RO:0002470	eats		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27			
+	ITIS:103348	Thysanoptera															RO:0002470	eats		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27			
+	ITIS:103348	Thysanoptera															RO:0002470	eats		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27			
+	ITIS:103348	Thysanoptera															RO:0002470	eats		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-02-27T17:53:02			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-05			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-05			
+	ITIS:118840	Tipulidae															RO:0002437	interactsWith		ITIS:118840	Tipulidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-05			
+	ITIS:117318	Noctuidae															RO:0002470	eats		GBIF:3152473	Sphaeralcea ambigua						Sphaeralcea	ambigua											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-05			
+	ITIS:104419	Miridae															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-05			
+	ITIS:104419	Miridae															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-05			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11T22:05:20			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11T22:09:04			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11			
+		Aphidae															RO:0002470	eats		GBIF:5375920	Eruca vesicaria						Eruca	vesicaria											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11T22:09:05			
+	ITIS:115081	Chrysopidae															RO:0002454	hasHost			Citrus																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-03-11T22:18:44			
+		Altica															RO:0002470	eats		GBIF:8109957	Eulobus californicus						Eulobus	californicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+		Altica															RO:0002470	eats		GBIF:3188809	Oenothera cespitosa						Oenothera	cespitosa											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+	ITIS:117556	Geometridae															RO:0002470	eats		GBIF:2927060	Salvia columbariae						Salvia	columbariae											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+	ITIS:117556	Geometridae															RO:0002470	eats		GBIF:2927060	Salvia columbariae						Salvia	columbariae											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+	ITIS:117556	Geometridae															RO:0002470	eats		GBIF:2927060	Salvia columbariae						Salvia	columbariae											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+	ITIS:117556	Geometridae															RO:0002470	eats		GBIF:2927060	Salvia columbariae						Salvia	columbariae											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+	ITIS:117556	Geometridae															RO:0002470	eats		GBIF:2927060	Salvia columbariae						Salvia	columbariae											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+	ITIS:117556	Geometridae															RO:0002470	eats		GBIF:2927060	Salvia columbariae						Salvia	columbariae											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-02			
+	GBIF:2008759	Apiomerus flaviventris						Apiomerus	flaviventris								RO:0002437	interactsWith		GBIF:2008759	Apiomerus flaviventris						Apiomerus	flaviventris											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-04-30			
+	GBIF:1790240	Melipotis acontioides						Melipotis	acontioides								RO:0002622	visitsFlowersOf		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-05-11			
+	GBIF:1790240	Melipotis acontioides						Melipotis	acontioides								RO:0002622	visitsFlowersOf		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-05-11			
+	GBIF:1790240	Melipotis acontioides						Melipotis	acontioides								RO:0002622	visitsFlowersOf		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-05-11			
+	GBIF:1790240	Melipotis acontioides						Melipotis	acontioides								RO:0002622	visitsFlowersOf		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2024-05-11			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	ITIS:717734	Tupiocoris															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Corimelaena															RO:0002470	eats		GBIF:8279512	Nicotiana obtusifolia						Nicotiana	obtusifolia											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+		Aphidae															RO:0002470	eats		ITIS:31700	Amsinckia																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	GBIF:3084408	Lophocereus schottii						Lophocereus	schottii								RO:0002437	interactsWith		GBIF:1317320	Brachymyrmex patagonicus						Brachymyrmex	patagonicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	GBIF:3084408	Lophocereus schottii						Lophocereus	schottii								RO:0002437	interactsWith		GBIF:1317320	Brachymyrmex patagonicus						Brachymyrmex	patagonicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	GBIF:3084408	Lophocereus schottii						Lophocereus	schottii								RO:0002437	interactsWith		GBIF:1317320	Brachymyrmex patagonicus						Brachymyrmex	patagonicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	GBIF:3084408	Lophocereus schottii						Lophocereus	schottii								RO:0002437	interactsWith		GBIF:1317320	Brachymyrmex patagonicus						Brachymyrmex	patagonicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	GBIF:3084408	Lophocereus schottii						Lophocereus	schottii								RO:0002437	interactsWith		GBIF:1317320	Brachymyrmex patagonicus						Brachymyrmex	patagonicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	GBIF:3084408	Lophocereus schottii						Lophocereus	schottii								RO:0002437	interactsWith		GBIF:1317320	Brachymyrmex patagonicus						Brachymyrmex	patagonicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
+	GBIF:2056098	Stobaera concinna						Stobaera	concinna								RO:0002470	eats		GBIF:3110605	Ambrosia ambrosioides						Ambrosia	ambrosioides											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-25			
+	GBIF:2056098	Stobaera concinna						Stobaera	concinna								RO:0002470	eats		GBIF:3110605	Ambrosia ambrosioides						Ambrosia	ambrosioides											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-25			
+		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
+	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
+	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
+	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
+	GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus								RO:0002437	interactsWith		GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-06-22			
+	GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus								RO:0002437	interactsWith		GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-06-22			
