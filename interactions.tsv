@@ -123,11 +123,11 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceTaxonKingdomName	sourceTa
 	GBIF:5051522	Argia vivida						Argia	vivida								RO:0002437	interactsWith		GBIF:5051522	Argia vivida						Argia	vivida											Bonanza Spring	34.6852	-115.4056			2022-04-17			
 	GBIF:5051522	Argia vivida						Argia	vivida								RO:0002437	interactsWith		GBIF:5051522	Argia vivida						Argia	vivida											Bonanza Spring	34.6852	-115.4056			2022-04-17			
 		Diptera															RO:0002437	interactsWith			Diptera																		Bonanza Spring	34.6821	-115.4045			2022-04-17			
-		Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																		Mojave Desert, near Fenner	34.7573	-115.2188			2022-04-18			
-		Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
-		Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
-		Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
-		Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
+	ITIS:152741	Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																		Mojave Desert, near Fenner	34.7573	-115.2188			2022-04-18			
+	ITIS:152741	Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
+	ITIS:152741	Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
+	ITIS:152741	Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
+	ITIS:152741	Hymenoptera															RO:0002622	visitsFlowersOf		ITIS:30240	Asclepias																			34.7573	-115.2188			2022-04-18			
 		Calliopsis															RO:0002437	interactsWith			Calliopsis																		Superstition Mountains, Miles Ranch Trailhead, Tonto National Forest	33.4378	-111.0698			2022-04-23			
 		Calliopsis															RO:0002437	interactsWith			Calliopsis																		Superstition Mountains, Miles Ranch Trailhead, Tonto National Forest	33.4378	-111.0698			2022-04-23			
 	ITIS:574052	Crematogaster															RO:0002622	visitsFlowersOf		GBIF:7282835	Cylindropuntia arbuscula						Cylindropuntia	arbuscula											Sand Tank Mountains, Sonoran Desert National Monument	32.7987	-112.5113			2022-04-29			
@@ -262,13 +262,13 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceTaxonKingdomName	sourceTa
 	GBIF:4299368	Vanessa cardui						Vanessa	cardui								RO:0002622	visitsFlowersOf		GBIF:3109181	Bebbia juncea						Bebbia	juncea											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
 	GBIF:4299368	Vanessa cardui						Vanessa	cardui								RO:0002622	visitsFlowersOf		GBIF:3109181	Bebbia juncea						Bebbia	juncea											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
 	ITIS:154266	Polistes															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5576	-111.353			2023-11-03			
-	ITIS:154189	Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
-	ITIS:154189	Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
-	ITIS:154189	Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
-	ITIS:154189	Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
-	ITIS:154189	Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
-	ITIS:154189	Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
-	ITIS:154189	Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
+		Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
+		Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
+		Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
+		Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
+		Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
+		Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
+		Scoliidae															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
 		Pepsis															RO:0002622	visitsFlowersOf		GBIF:3129915	Baccharis sarothroides						Baccharis	sarothroides											Service Road 80, Tonto National Forest	33.5575	-111.353			2023-11-03			
 		Paratiphia															RO:0002622	visitsFlowersOf		GBIF:3095893	Hymenothrix wrightii						Hymenothrix	wrightii											Service Road 80, Tonto National Forest	33.5572	-111.3528			2023-11-03			
 		Paratiphia															RO:0002622	visitsFlowersOf		GBIF:3095893	Hymenothrix wrightii						Hymenothrix	wrightii											Service Road 80, Tonto National Forest	33.5572	-111.3528			2023-11-03			
@@ -419,3 +419,4 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceTaxonKingdomName	sourceTa
 	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
 	GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus								RO:0002437	interactsWith		GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-06-22			
 	GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus								RO:0002437	interactsWith		GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-06-22			
+	GBIF:5051465	Argia tezpi						Argia	tezpi								RO:0002437	interactsWith		GBIF:5051465	Argia tezpi						Argia	tezpi											Sonora, Arroyo El Riito, Sierra Madres	29.7525	-108.8935			2018-08-05T13:04:21			
