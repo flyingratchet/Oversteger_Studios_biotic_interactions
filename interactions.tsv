@@ -392,30 +392,30 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceTaxonKingdomName	sourceTa
 	GBIF:3084408	Lophocereus schottii						Lophocereus	schottii								RO:0002437	interactsWith		GBIF:1317320	Brachymyrmex patagonicus						Brachymyrmex	patagonicus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-24			
 	GBIF:2056098	Stobaera concinna						Stobaera	concinna								RO:0002470	eats		GBIF:3110605	Ambrosia ambrosioides						Ambrosia	ambrosioides											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-25			
 	GBIF:2056098	Stobaera concinna						Stobaera	concinna								RO:0002470	eats		GBIF:3110605	Ambrosia ambrosioides						Ambrosia	ambrosioides											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-25			
-		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
-		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
-		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
-		Aphidae															RO:0002470	eats		ITIS:23062	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+		Aphidae															RO:0002470	eats		GBIF:3042845	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+		Aphidae															RO:0002470	eats		GBIF:3042845	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+		Aphidae															RO:0002470	eats		GBIF:3042845	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
+		Aphidae															RO:0002470	eats		GBIF:3042845	Brassica oleracea						Brassica	oleracea											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
 	GBIF:2072196	Aphis nerii						Aphis	nerii								RO:0002470	eats		GBIF:3170301	Asclepias subulata						Asclepias	subulata											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-03-30			
 	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
 	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
 	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
 	ITIS:151815	Sarcophagidae															RO:0002437	interactsWith		ITIS:151815	Sarcophagidae																		Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-04-24			
-	ITIS:634023	Ashmeadiella															RO:0002622	visitsFlowersOf		ITIS:19726	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5535			2025-04-28			
-	ITIS:699106	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		ITIS:19726	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5535			2025-04-28			
-	ITIS:699106	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		ITIS:19726	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
-	ITIS:699106	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		ITIS:19726	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
-	ITIS:699106	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		ITIS:19726	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
-	ITIS:699106	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		ITIS:19726	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
-	ITIS:699106	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		ITIS:19726	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
+	ITIS:634023	Ashmeadiella															RO:0002622	visitsFlowersOf		GBIF:5384095	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5535			2025-04-28			
+	GBIF:1341161	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		GBIF:5384095	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5535			2025-04-28			
+	GBIF:1341161	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		GBIF:5384095	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
+	GBIF:1341161	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		GBIF:5384095	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
+	GBIF:1341161	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		GBIF:5384095	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
+	GBIF:1341161	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		GBIF:5384095	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
+	GBIF:1341161	Diadasia australis						Diadasia	australis								RO:0002622	visitsFlowersOf		GBIF:5384095	Opuntia polyacantha						Opuntia	polyacantha											Mohave County	36.9162	-113.5536			2025-04-28			
 	GBIF:7568403	Larrea tridentata						Larrea	tridentata								RO:0002437	interactsWith		ITIS:616958	Ophryastes																		Mohave County	36.9135	-113.552			2025-04-28			
 	GBIF:9448761	Digrammia colorata						Digrammia	colorata								RO:0002454	hasHost		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9138	-113.5522			2025-04-28			
 	GBIF:9448761	Digrammia colorata						Digrammia	colorata								RO:0002454	hasHost		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9138	-113.5522			2025-04-28			
 	GBIF:9448761	Digrammia colorata						Digrammia	colorata								RO:0002622	visitsFlowersOf		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9131	-113.5545			2025-04-28			
 	ITIS:706171	Hyporhagus															RO:0002470	eats		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9136	-113.5518			2025-04-28			
-	ITIS:699638	Anthidiellum notatum						Anthidiellum	notatum								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
-	ITIS:808885	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
-	ITIS:808885	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
+	GBIF:1338896	Anthidiellum notatum						Anthidiellum	notatum								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
+	GBIF:6003201	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
+	GBIF:6003201	Acmaeodera diffusa						Acmaeodera	diffusa								RO:0002622	visitsFlowersOf		ITIS:35420	Asteraceae																		Mohave County	36.9148	-113.5588			2025-04-29			
 	ITIS:706171	Hyporhagus															RO:0002470	eats		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9143	-113.555			2025-04-29			
 	ITIS:706171	Hyporhagus															RO:0002470	eats		GBIF:7568403	Larrea tridentata						Larrea	tridentata											Mohave County	36.9141	-113.5546			2025-04-29			
 	GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus								RO:0002437	interactsWith		GBIF:2157942	Latrodectus hesperus						Latrodectus	hesperus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2025-06-22			
