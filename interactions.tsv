@@ -155,7 +155,7 @@ sourceOccurrenceId	sourceTaxonId	sourceTaxonName	sourceTaxonKingdomName	sourceTa
 	ITIS:154344	Apoidea															RO:0002622	visitsFlowersOf		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2022-06-26T09:47:34			
 	ITIS:154344	Apoidea															RO:0002622	visitsFlowersOf		GBIF:9206251	Helianthus annuus						Helianthus	annuus											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2022-06-26			
 	ITIS:114493	Scarabaeidae															RO:0002470	eats		GBIF:5361949	Simmondsia chinensis						Simmondsia	chinensis											Hardy Drive & 16th Street, Tempe, Arizona	33.412435	-111.952193			2022-07-05			
-	ITIS:109234	Carabidae															RO:0002437	interactsWith		ITIS:109234	Carabidae																		Mesa del Campanero	28.36309	-109.03012			2022-08-05T21:03:18			
+		Carabidae															RO:0002437	interactsWith		ITIS:109234	Carabidae																		Mesa del Campanero	28.36309	-109.03012			2022-08-05T21:03:18			
 	GBIF:1427142	Hetaerina americana						Hetaerina	americana								RO:0002437	interactsWith		GBIF:1427142	Hetaerina americana						Hetaerina	americana											Yécora	28.37617	-108.9201			2022-08-06			
 	GBIF:5051314	Enallagma praevarum						Enallagma	praevarum								RO:0002437	interactsWith		GBIF:5051314	Enallagma praevarum						Enallagma	praevarum											Carretera Federal 16 east of Yécora	28.38456	-108.8519			2022-08-07			
 	GBIF:5051487	Argia herberti						Argia	herberti								RO:0002437	interactsWith		GBIF:5051487	Argia herberti						Argia	herberti											Carretera Federal 16 east of Yécora	28.37383	-108.83632			2022-08-08T12:23:51			
